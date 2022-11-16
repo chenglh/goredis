@@ -1,0 +1,9 @@
+[INFO][server.go:47] 2022/11/16 16:10:22 start listen
+[INFO][server.go:57] 2022/11/16 16:12:36 shutting down
+[INFO][echo.go:84] 2022/11/16 16:12:36 handler shutting down
+[INFO][server.go:47] 2022/11/16 16:12:38 start listen
+[INFO][server.go:80] 2022/11/16 16:13:20 accepted link
+[INFO][server.go:57] 2022/11/16 16:15:27 shutting down
+[INFO][echo.go:84] 2022/11/16 16:15:27 handler shutting down
+[WARN][echo.go:68] 2022/11/16 16:15:27 read tcp 127.0.0.1:6380->127.0.0.1:57404: use of closed network connection
+[INFO][echo.go:84] 2022/11/16 16:15:27 handler shutting down
